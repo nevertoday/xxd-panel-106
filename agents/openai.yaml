@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-panel-106"
+  short_description: "Turn photos into soft geometric pixel memories."
+  default_prompt: "Use $xxd-panel-106 to turn one image or an image directory into spacious pastel pixel-memory artwork. Keep the bundled Chinese original brief as the sole aesthetic authority, transform each current original source directly in one pass, keep comparison modes to exactly two equal 50:50 regions with no third band or collage, isolate every batch source, send exactly one mode-specific delivery contract per asset, and make design-only and wallpaper outputs fully transformed."
+
+policy:
+  allow_implicit_invocation: true
