@@ -264,7 +264,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## دليل مشاريع XXD Panel الكامل
 
-يحافظ كل مشروع من مشاريع Panel الـ107 على موجّهه الأصلي ومنطقه الجمالي المستقل. يعرض الجدول روابط جميع المشاريع وخصائص أسلوبها الأساسية، مع تمييز المشروع الحالي بخط عريض.
+يحافظ كل مشروع من مشاريع Panel الـ106 على موجّهه الأصلي ومنطقه الجمالي المستقل. يسرد الجدول المشاريع من 001 إلى 106 دون أرقام مفقودة، مع تمييز المشروع الحالي بخط عريض.
 
 | المشروع | خصائص الأسلوب |
 |---|---|
@@ -374,7 +374,6 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-104](https://github.com/nevertoday/xxd-panel-104) | طباعة نصفية · تدخلات خطية ملونة · مركز بصري واحد · فراغ تأملي |
 | [xxd-panel-105](https://github.com/nevertoday/xxd-panel-105) | انتقاء جمالي ذكي · مركز بصري واحد · كولاج ورقي شعري بسيط · ملمس طباعة أحادية／شاشة حريرية／Risograph · لوحة محدودة ناعمة · فراغ واسع |
 | **[xxd-panel-106](https://github.com/nevertoday/xxd-panel-106)** | ذاكرة بكسلية ناعمة · 2–4 مرتكزات بصرية · شبكة منتظمة · كتل معيارية · تهشير نقطي موضعي · مركز بصري واحد · فراغ واسع |
-| [xxd-panel-107](https://github.com/nevertoday/xxd-panel-107) | جملة بصرية استبدالية · قراءة متصلة من النص＋الكلمات المصورة · كتل باستيلية مستقلة · رسم تحريري يدوي حديث · قصيدة بصرية من 2–4 أسطر |
 <!-- xxd-panel-catalog:end -->
 
 ## عن XXD

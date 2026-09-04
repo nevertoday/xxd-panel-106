@@ -264,7 +264,7 @@ Full specifications: [Skill workflow](SKILL.md) · [source archive](references/o
 <!-- xxd-panel-catalog:start -->
 ## Complete XXD Panel catalog
 
-Each of the 107 Panels preserves its own original brief and aesthetic logic. The table lists every project address and its defining style characteristics; the current project is bold.
+Each of the 106 Panels preserves its own original brief and aesthetic logic. The table continuously lists every project from 001 through 106 with its defining style characteristics; the current project is bold.
 
 | Project | Style characteristics |
 |---|---|
@@ -374,7 +374,6 @@ Each of the 107 Panels preserves its own original brief and aesthetic logic. The
 | [xxd-panel-104](https://github.com/nevertoday/xxd-panel-104) | halftone print · coloured linear interventions · one visual centre · contemplative negative space |
 | [xxd-panel-105](https://github.com/nevertoday/xxd-panel-105) | intelligent aesthetic selection · one visual centre · poetic minimalist paper collage · monoprint／screen print／Risograph texture · soft limited palette · generous negative space |
 | **[xxd-panel-106](https://github.com/nevertoday/xxd-panel-106)** | pastel pixel memory · 2–4 visual anchors · regular grid · modular colour blocks · local dithering · one visual core · generous negative space |
-| [xxd-panel-107](https://github.com/nevertoday/xxd-panel-107) | rebus visual sentence · continuous text＋image-word reading · independent pastel blocks · modern hand-drawn editorial illustration · 2–4-line visual poem |
 <!-- xxd-panel-catalog:end -->
 
 ## About XXD

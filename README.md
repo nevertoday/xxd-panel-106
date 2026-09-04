@@ -264,7 +264,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全系列项目
 
-107 个 Panel 各自保留独立的原始提示词与审美逻辑。下面列出全部项目地址和核心风格特点；当前项目以粗体标出。
+106 个 Panel 各自保留独立的原始提示词与审美逻辑。下面连续列出 001–106 的全部项目地址和核心风格特点；当前项目以粗体标出。
 
 | 项目地址 | 风格特点 |
 |---|---|
@@ -374,7 +374,6 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-104](https://github.com/nevertoday/xxd-panel-104) | 网点禅意志 · 网点印刷 · 彩色线性介入 · 单一视觉重心 · 禅意留白 |
 | [xxd-panel-105](https://github.com/nevertoday/xxd-panel-105) | 智能筛选最美一幕 · 单一视觉重心 · 诗意极简纸本拼贴 · 单版画／丝网／Risograph 质感 · 柔和有限色盘 · 大面积留白 |
 | **[xxd-panel-106](https://github.com/nevertoday/xxd-panel-106)** | 柔彩像素记 · 2–4 个视觉锚点 · 规则网格 · 模块色块 · 局部 dithering · 单一视觉核心 · 大面积留白 |
-| [xxd-panel-107](https://github.com/nevertoday/xxd-panel-107) | 图像替词视觉句 · 文字＋图像词连续阅读 · 柔彩独立色块 · 现代手绘编辑插画 · 2–4 行视觉诗 |
 <!-- xxd-panel-catalog:end -->
 
 ## 关于 XXD

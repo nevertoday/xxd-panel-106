@@ -264,7 +264,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 전체 프로젝트 목록
 
-107개 Panel은 각각 독립된 원본 프롬프트와 미적 논리를 유지합니다. 아래 표에서 모든 프로젝트 주소와 핵심 스타일 특징을 확인할 수 있으며 현재 프로젝트는 굵게 표시됩니다.
+106개 Panel은 각각 독립된 원본 프롬프트와 미적 논리를 유지합니다. 아래 표에는 001부터 106까지 빠짐없이 나열하며 현재 프로젝트는 굵게 표시합니다.
 
 | 프로젝트 | 스타일 특징 |
 |---|---|
@@ -374,7 +374,6 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-104](https://github.com/nevertoday/xxd-panel-104) | 망점 인쇄 · 컬러 선 개입 · 하나의 시각적 중심 · 선적인 여백 |
 | [xxd-panel-105](https://github.com/nevertoday/xxd-panel-105) | 지능적 미학 선별 · 하나의 시각적 중심 · 시적 미니멀 종이 콜라주 · 모노프린트／실크스크린／Risograph 질감 · 부드러운 제한색 · 넓은 여백 |
 | **[xxd-panel-106](https://github.com/nevertoday/xxd-panel-106)** | 소프트 컬러 픽셀 기억 · 시각 앵커 2–4개 · 규칙 그리드 · 모듈식 색면 · 부분 디더링 · 하나의 시각적 중심 · 넓은 여백 |
-| [xxd-panel-107](https://github.com/nevertoday/xxd-panel-107) | 리버스형 시각 문장 · 텍스트＋이미지 단어 연속 읽기 · 독립 파스텔 색면 · 현대 손그림 편집 일러스트 · 2–4행 시각시 |
 <!-- xxd-panel-catalog:end -->
 
 ## XXD 소개

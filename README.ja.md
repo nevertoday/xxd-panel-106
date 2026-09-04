@@ -264,7 +264,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全プロジェクト一覧
 
-107 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。全プロジェクトの URL と主要なスタイル特性を一覧にし、現在のプロジェクトを太字で示します。
+106 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。表には 001 から 106 までを欠番なく掲載し、現在のプロジェクトを太字で示します。
 
 | プロジェクト | スタイル特性 |
 |---|---|
@@ -374,7 +374,6 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-104](https://github.com/nevertoday/xxd-panel-104) | 網点印刷 · 彩色線の介入 · 一つの視覚的重心 · 禅的な余白 |
 | [xxd-panel-105](https://github.com/nevertoday/xxd-panel-105) | 知的な審美選択 · 一つの視覚的重心 · 詩的ミニマル紙本コラージュ · モノプリント／シルクスクリーン／Risograph 肌理 · 柔らかな限定色 · 大きな余白 |
 | **[xxd-panel-106](https://github.com/nevertoday/xxd-panel-106)** | 柔彩ピクセル記憶 · 2〜4個の視覚アンカー · 規則グリッド · モジュール色面 · 部分ディザリング · 一つの視覚的中心 · 大きな余白 |
-| [xxd-panel-107](https://github.com/nevertoday/xxd-panel-107) | 判じ絵型の視覚文 · 文字＋画像語の連続読解 · 独立した柔彩色面 · 現代手描き編集イラスト · 2〜4行の視覚詩 |
 <!-- xxd-panel-catalog:end -->
 
 ## XXD について
