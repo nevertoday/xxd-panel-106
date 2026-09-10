@@ -11,23 +11,18 @@
 
 ## 样张展示
 
-**16:9 横版左右样张**
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 竖版上下样张**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-以上八张包括四张 16:9 横版左右样张和四张 3:4 竖版上下样张，均由 Panel 106 从各自原图一次直达、独立生成，不借用其他编号作品或中间结果。两种对照都严格 50:50，只有两个区域；样张使用英文智能配字。
-
-<!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
 
 照片里常常有太多细节，真正让人记住的却可能只是一道轮廓、一段动作、一种距离或一块颜色。**Panel 106** 会从原图中挑出 2–4 个决定身份的视觉锚点，把它们重构成柔和、清亮而有几何秩序的像素记忆：远看是一张高级抽象构成，近看仍能认出这就是你的照片。
