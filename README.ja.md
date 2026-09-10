@@ -51,23 +51,6 @@
 
 <!-- xxd-human-intro:end -->
 
-## 使い方のコツ
-
-- **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
-- **パラメータを一文でつなぐ：** 「上下 / 左右 / デザインのみ + 16:9 / 3:4 / スマホ壁紙」のように指定し、PC・タブレット・スマートウォッチのサイズも追加できます。
-- **残したい内容を明示する：** 人物、物、動作、関係、文字を指定し、レイアウトを細かく縛りすぎずスタイルに任せます。
-- **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
-- **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
-- **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
-
-## 原文プロンプト · 5言語
-
-[简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
-
-中国語ファイルはユーザーの原文を逐語保存し、実行時の唯一の創作・美的基準です。他の4言語は完全で忠実な閲覧訳であり、生成プロンプトを書き換えません。
-
-**特徴：** 2〜4個の視覚的アンカー · 幾何学ピクセル · モジュール色面 · 硬い輪郭 · 部分ディザリング · 一つの視覚的中心 · 大きな余白 · 柔らかく明るい限定色
-
 <!-- xxd-panel-benefit:start -->
 ## クイック適性チェック
 
@@ -78,6 +61,49 @@
 | **入力をどう尊重するか** | 現実像は同一性、構造、自然な質感を保ち、変換像は大胆に要約しながら決定的な輪郭、姿勢、空間方向、感情を正確に残します |
 | **用途** | アートポスター、独立出版物の表紙、展覧会画像、ソーシャルコンテンツ、デザインのみの作品、四端末壁紙 |
 <!-- xxd-panel-benefit:end -->
+
+## 使い方のコツ
+
+- **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
+- **パラメータを一文でつなぐ：** 「上下 / 左右 / デザインのみ + 16:9 / 3:4 / スマホ壁紙」のように指定し、PC・タブレット・スマートウォッチのサイズも追加できます。
+- **残したい内容を明示する：** 人物、物、動作、関係、文字を指定し、レイアウトを細かく縛りすぎずスタイルに任せます。
+- **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
+- **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
+- **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
+
+## 使い始める
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-106.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-106" ~/.codex/skills/xxd-panel-106
+```
+
+`npx skills` でも直接インストールできます：
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-106 --skill xxd-panel-106
+```
+
+このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
+
+Claude Code では同じフォルダを次へリンクできます： `~/.claude/skills/xxd-panel-106`. インストール後に Agent セッションを再起動してください。
+
+```text
+$xxd-panel-106
+Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
+```
+
+完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/original-prompt/zh-CN.md) · [英語ランタイムアダプター](references/xxd-panel-106-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-106-prompt.zh-CN.md)
+
+## 原文プロンプト · 5言語
+
+[简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+中国語ファイルはユーザーの原文を逐語保存し、実行時の唯一の創作・美的基準です。他の4言語は完全で忠実な閲覧訳であり、生成プロンプトを書き換えません。
+
+**特徴：** 2〜4個の視覚的アンカー · 幾何学ピクセル · モジュール色面 · 硬い輪郭 · 部分ディザリング · 一つの視覚的中心 · 大きな余白 · 柔らかく明るい限定色
+
 
 <details>
 <summary><strong>全機能と引数（必要なときに開く）</strong></summary>
@@ -225,31 +251,6 @@ GPT Image 2 を既定の第一候補とします。高忠実度の参照画像�
 適切な経路がない場合は、画像生成ツールを有効にするか API Key を提供するようユーザーに案内します。ユーザーが提供した認証情報は現在のタスクで利用できますが、返信やログに再表示・記録・開示しません。明示的な依頼がない限り、長期保存やプロバイダー、アカウント、課金、グローバル経路の設定変更も行いません。
 
 </details>
-
-## 使い始める
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-106.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-106" ~/.codex/skills/xxd-panel-106
-```
-
-`npx skills` でも直接インストールできます：
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-106 --skill xxd-panel-106
-```
-
-このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
-
-Claude Code では同じフォルダを次へリンクできます： `~/.claude/skills/xxd-panel-106`. インストール後に Agent セッションを再起動してください。
-
-```text
-$xxd-panel-106
-Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
-```
-
-完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/original-prompt/zh-CN.md) · [英語ランタイムアダプター](references/xxd-panel-106-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-106-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全プロジェクト一覧
