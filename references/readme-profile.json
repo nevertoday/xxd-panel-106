@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 106｜Pastel Pixel Memory: strips a photo down to two to four visual anchors that define it — a distinctive outline, a gesture, a proportion, a block of colour, a building edge or the distance between subject and setting — and rebuilds them as limited-palette pixel art on a regular grid: large modular hard-edged pixel shapes, repeated arrays and touches of dithering, parts cropped, missing or floating, one visual core inside large whitespace so it reads first as an abstract composition, a soft pastel palette (cream, vanilla, peach, sakura pink, apricot, lavender, milk blue, mint) with a coral or bright-yellow accent, and a few words in a small pixel or dot-matrix font. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-106 or asks for pastel pixel art, minimalist pixel poster or dithered geometric memory art from a photo.",
+  "short_description": "柔彩像素记：把照片删到只剩两三个关键形状，用柔和粉彩像素和大片留白重新画出",
+  "zh-CN": {
+    "name": "柔彩像素记",
+    "tagline": "把照片删到只剩两三个关键形状，再用柔和的粉彩像素重新记住它。",
+    "look": "画面只保留两到四个决定这张照片身份的东西，比如一个特殊轮廓、一个动作、一块代表色、一道建筑转折，其余直接删掉；主体可以只露一部分、被裁切或悬浮。所有形状都落在规则的像素网格上，用大块硬边像素、重复阵列和少量抖动点阵做层次，远看像抽象构成，近看才认出主体。颜色是奶油白、香草黄、蜜桃粉、樱花粉、薰衣草紫、牛奶蓝、薄荷绿这类柔和粉彩，偶尔一点珊瑚粉或亮黄跳色，四周大片留白。只配几个小小的像素字或点阵字。",
+    "traits": ["身份锚点", "规则像素网格", "硬边色块", "局部抖动点阵", "柔彩色板", "大面积留白"],
+    "good": [
+      "有一个特别形状或代表色的照片：红色屋顶、圆形窗、一把黄伞、一只白猫",
+      "简单、留白多的场景：海边一人、一棵树下的长椅、空旷的天台",
+      "想做成可爱又克制的头像、壁纸或小海报的日常照片"
+    ],
+    "poor": [
+      "需要看清细节的照片：五官、文字、树叶、机械结构都会被删去",
+      "颜色浓重、氛围阴沉的照片，会被转成柔和粉彩，原本的情绪会变",
+      "想要完整还原场景、游戏截图式像素画或写实效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Pastel Pixel Memory",
+    "tagline": "Strips a photo down to two or three key shapes, then remembers it again in soft pastel pixels.",
+    "look": "Only two to four things that define the photo survive, such as a distinctive outline, a gesture, a block of signature colour or the turn of a building, and everything else is simply removed; the subject may be partial, cropped or floating. Every shape sits on a regular pixel grid, built from big hard-edged pixel blocks, repeated arrays and a little dithering, so from afar it reads as an abstract composition and only up close does the subject appear. The palette is soft pastel, cream, vanilla, peach, sakura pink, lavender, milk blue and mint, with an occasional coral or bright-yellow accent, surrounded by wide whitespace. Only a few small pixel or dot-matrix words appear.",
+    "traits": ["Identity anchors", "Regular pixel grid", "Hard-edged blocks", "Partial dithering", "Pastel palette", "Wide whitespace"],
+    "good": [
+      "Photos with one special shape or signature colour: a red roof, a round window, a yellow umbrella, a white cat",
+      "Simple scenes with lots of space: one person on a beach, a bench under a tree, an empty rooftop",
+      "Everyday photos you want as a cute yet restrained avatar, wallpaper or small poster"
+    ],
+    "poor": [
+      "Photos where detail matters, since faces, text, leaves and machinery are all removed",
+      "Heavy, dark-coloured or sombre photos, which become soft pastels and change mood",
+      "Requests to reproduce the whole scene, game-screenshot pixel art or a realistic look"
+    ]
+  },
+  "ja": {
+    "name": "柔彩ピクセル記",
+    "tagline": "写真を二つ三つの大事な形だけに削り、柔らかなパステルのピクセルでもう一度記憶します。",
+    "look": "写真らしさを決める二〜四つのもの、たとえば特徴的な輪郭、ひとつの動き、象徴的な色の塊、建物の折れ目だけを残し、あとはすっぱり省きます。主役は一部だけだったり、切れていたり、浮いていたりしてもかまいません。すべての形は規則的なピクセルグリッドに乗り、大きな硬い縁のピクセルの塊、繰り返しの並び、少しのディザリングで層をつくります。遠目には抽象的な構成に見え、近づくと主役が読み取れます。色はクリーム、バニラ、ピーチ、桜色、ラベンダー、ミルクブルー、ミントといった柔らかなパステルで、ときおりコーラルや明るい黄色を差し、まわりは広い余白です。文字は小さなピクセル文字やドット文字が少しだけです。",
+    "traits": ["らしさの手がかり", "規則的なピクセルグリッド", "硬い縁の色面", "部分的なディザリング", "パステルのパレット", "広い余白"],
+    "good": [
+      "特別な形や象徴的な色がひとつある写真：赤い屋根、丸い窓、黄色い傘、白い猫",
+      "シンプルで余白の多い場面：海辺のひとり、木の下のベンチ、がらんとした屋上",
+      "かわいくて控えめなアイコン、壁紙、小さなポスターにしたい日常写真"
+    ],
+    "poor": [
+      "細部が大事な写真（顔立ち、文字、葉、機械の構造はすべて省かれます）",
+      "色が濃く暗い、重い雰囲気の写真（柔らかなパステルになり気分が変わります）",
+      "場面全体の再現、ゲーム画面のようなピクセルアート、写実的な仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "소프트 컬러 픽셀 기록",
+    "tagline": "사진을 두세 개의 핵심 형태만 남기고 깎아낸 뒤, 부드러운 파스텔 픽셀로 다시 기억합니다.",
+    "look": "사진의 정체성을 정하는 두세 가지에서 네 가지만 남깁니다. 특별한 윤곽, 하나의 동작, 대표 색 덩어리, 건물의 꺾임 같은 것들이며 나머지는 과감히 지웁니다. 주인공은 일부만 보이거나 잘리거나 떠 있어도 됩니다. 모든 형태는 규칙적인 픽셀 격자 위에 놓이고, 큰 경계가 단단한 픽셀 덩어리, 반복 배열, 약간의 디더링으로 층을 만듭니다. 멀리서는 추상 구성으로 보이고 가까이 가야 주인공이 읽힙니다. 색은 크림, 바닐라, 피치, 벚꽃 분홍, 라벤더, 밀크 블루, 민트 같은 부드러운 파스텔이며 가끔 코럴이나 밝은 노랑으로 포인트를 주고, 주위는 넓은 여백입니다. 글자는 작은 픽셀 글자나 도트 글자 몇 개뿐입니다.",
+    "traits": ["정체성의 단서", "규칙적인 픽셀 격자", "단단한 경계의 색면", "부분 디더링", "파스텔 팔레트", "넓은 여백"],
+    "good": [
+      "특별한 형태나 대표 색이 하나 있는 사진: 빨간 지붕, 둥근 창, 노란 우산, 흰 고양이",
+      "단순하고 여백이 많은 장면: 바닷가의 한 사람, 나무 아래 벤치, 텅 빈 옥상",
+      "귀엽지만 절제된 프로필, 배경화면, 작은 포스터로 쓰고 싶은 일상 사진"
+    ],
+    "poor": [
+      "세부가 중요한 사진(이목구비, 글자, 나뭇잎, 기계 구조는 모두 지워집니다)",
+      "색이 짙고 어두운, 무거운 분위기의 사진(부드러운 파스텔로 바뀌어 분위기가 달라집니다)",
+      "장면 전체 재현, 게임 화면 같은 픽셀 아트, 사실적인 결과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ذاكرة البكسل الناعمة",
+    "tagline": "يجرّد الصورة حتى لا يبقى منها إلا شكلان أو ثلاثة، ثم يستعيدها بكسلات باستيلية ناعمة.",
+    "look": "لا يبقى إلا شيئان إلى أربعة أشياء تحدد هوية الصورة، كمحيط مميز أو إيماءة أو كتلة لونها اللافت أو انعطافة مبنى، ويُحذف كل ما عداها؛ وقد يظهر العنصر جزئياً أو مقصوصاً أو طافياً. يستقر كل شكل على شبكة بكسل منتظمة، مبنياً من كتل بكسل كبيرة حادة الحواف وصفوف متكررة وقليل من التنقيط المتدرج، فيبدو من بعيد تكويناً تجريدياً ولا يتضح العنصر إلا عن قرب. الألوان باستيل ناعم: كريمي وفانيليا وخوخي ووردي الساكورا ولافندر وأزرق حليبي ونعناعي، مع لمسة مرجانية أو صفراء زاهية أحياناً، ويحيط بها فراغ واسع. لا تظهر إلا كلمات قليلة صغيرة بخط بكسلي أو نقطي.",
+    "traits": ["مراسي الهوية", "شبكة بكسل منتظمة", "كتل حادة الحواف", "تنقيط جزئي", "لوحة باستيل", "فراغ واسع"],
+    "good": [
+      "صور فيها شكل مميز أو لون لافت واحد: سقف أحمر، نافذة مستديرة، مظلة صفراء، قطة بيضاء",
+      "مشاهد بسيطة فيها فراغ كثير: شخص واحد على الشاطئ، مقعد تحت شجرة، سطح خالٍ",
+      "صور يومية تريدها صورة شخصية أو خلفية أو ملصقاً صغيراً لطيفاً ومتحفظاً"
+    ],
+    "poor": [
+      "صور تهم فيها التفاصيل، إذ تُحذف الوجوه والنصوص والأوراق والآلات كلها",
+      "الصور الثقيلة الداكنة الألوان أو القاتمة، إذ تتحول إلى باستيل ناعم ويتغير مزاجها",
+      "طلب إعادة المشهد كاملاً أو فن بكسل كلقطة من لعبة أو مظهر واقعي"
+    ]
+  }
+}
